@@ -6,6 +6,7 @@ function App() {
       <h2>Segunda branch</h2>
       <p>Primer parrafo</p>
       <p>segundo parrafo</p>
+      <p>tercer parrafo</p>
 
       <footer>
         <p>Este es un footer &copy</p>
